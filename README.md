@@ -1,3 +1,11 @@
+## 1.3 明霄升海平
+
+|章节|标题|图片|
+|---|---|---|
+|金翅鹏王之章 第一幕 槐柯胡蝶，傩佑之梦|护法仙众夜叉录|[<img width="400px" src="./img/Cs_XLQ1110104_XiaoPersonal.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.3/Cs_XLQ1110104_XiaoPersonal.mkv)|
+|明霄升海平 海灯节|汇成明霄|[<img width="400px" src="./img/Cs_EQHDJ005_HaiDengJie_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.3/Cs_EQHDJ005_HaiDengJie_Boy.mkv)|
+|明霄升海平 海灯节|汇成明霄|[<img width="400px" src="./img/Cs_EQHDJ005_HaiDengJie_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.3/Cs_EQHDJ005_HaiDengJie_Girl.mkv)|
+
 ## 1.2 白垩与黑龙
 
 |章节|标题|图片|
