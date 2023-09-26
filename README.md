@@ -1,13 +1,25 @@
+## 2.5 薄樱初绽时
+
+|章节|标题|图片|
+|---|---|---|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.mkv)|
+|仙狐之章 第一幕 鸣神御袚祈愿祭||[<img width="400px" src="./img/Cs_Inazuma_LQ1203105_YaeMiko_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1203105_YaeMiko_Boy.mkv)|
+|仙狐之章 第一幕 鸣神御袚祈愿祭||[<img width="400px" src="./img/Cs_Inazuma_LQ1203105_YaeMiko_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1203105_YaeMiko_Girl.mkv)|
+|三界路飨祭||[<img width="400px" src="./img/Cs_Inazuma_EQ4005111_MichiaeMatsuri.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_EQ4005111_MichiaeMatsuri.mkv)|
+
 ## 2.4 飞彩镌流年
 
 |章节|标题|图片|
 |---|---|---|
-|间章 第一幕 风起鹤归||[<img width="400px" src="./img/Cs_LQ1101502_ShenheBattle_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101502_ShenheBattle_Boy.mkv)|
-|间章 第一幕 风起鹤归||[<img width="400px" src="./img/Cs_LQ1101502_ShenheBattle_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101502_ShenheBattle_Girl.mkv)|
-|间章 第一幕 风起鹤归|神女劈观|[<img width="400px" src="./img/Cs_LQ1101505_YunjinOpera_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101505_YunjinOpera_Boy.mkv)|
-|间章 第一幕 风起鹤归|神女劈观|[<img width="400px" src="./img/Cs_LQ1101505_YunjinOpera_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101505_YunjinOpera_Girl.mkv)|
-|飞彩镌流年|岁华流彩|[<img width="400px" src="./img/Cs_LiYue_EQ4003712_HdjFireworksShow_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LiYue_EQ4003712_HdjFireworksShow_Boy.mkv)|
-|飞彩镌流年|岁华流彩|[<img width="400px" src="./img/Cs_LiYue_EQ4003712_HdjFireworksShow_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LiYue_EQ4003712_HdjFireworksShow_Girl.mkv)|
+|间章 第一幕 风起鹤归||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LQ1101502_ShenheBattle_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101502_ShenheBattle_Boy.mkv)|
+|间章 第一幕 风起鹤归||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LQ1101502_ShenheBattle_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101502_ShenheBattle_Girl.mkv)|
+|间章 第一幕 风起鹤归|神女劈观|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LQ1101505_YunjinOpera_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101505_YunjinOpera_Boy.mkv)|
+|间章 第一幕 风起鹤归|神女劈观|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LQ1101505_YunjinOpera_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101505_YunjinOpera_Girl.mkv)|
+|飞彩镌流年|岁华流彩|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_EQ4003712_HdjFireworksShow_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LiYue_EQ4003712_HdjFireworksShow_Boy.mkv)|
+|飞彩镌流年|岁华流彩|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_EQ4003712_HdjFireworksShow_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LiYue_EQ4003712_HdjFireworksShow_Girl.mkv)|
 
 ## 2.3 皑尘与雪影
 
