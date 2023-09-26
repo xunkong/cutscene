@@ -1,3 +1,13 @@
+## 2.6 流风眷堇庭
+
+|章节|标题|图片|
+|---|---|---|
+|旅人 第二章 第四幕 回响渊底的安魂曲||[<img width="400px" src="./img/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.mkv)|
+|旅人 第二章 第四幕 回响渊底的安魂曲||[<img width="400px" src="./img/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.mkv)|
+|堇庭华彩真说|歌仙逸话|[<img width="400px" src="./img/Cs_Inazuma_EQ400551201_IRODORI_Suikou.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400551201_IRODORI_Suikou.mkv)|
+|堇庭华彩真说|歌仙逸话|[<img width="400px" src="./img/Cs_Inazuma_EQ400560901_IRODORI_Aoinookina.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400560901_IRODORI_Aoinookina.mkv)|
+|堇庭华彩真说|歌仙逸话|[<img width="400px" src="./img/Cs_Inazuma_EQ400571101_IRODORI.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400571101_IRODORI.mkv)|
+
 ## 2.5 薄樱初绽时
 
 |章节|标题|图片|
