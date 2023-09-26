@@ -1,57 +1,68 @@
+## 2.4 飞彩镌流年
+
+|章节|标题|图片|
+|---|---|---|
+|间章 第一幕 风起鹤归||[<img width="400px" src="./img/Cs_LQ1101502_ShenheBattle_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101502_ShenheBattle_Boy.mkv)|
+|间章 第一幕 风起鹤归||[<img width="400px" src="./img/Cs_LQ1101502_ShenheBattle_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101502_ShenheBattle_Girl.mkv)|
+|间章 第一幕 风起鹤归|神女劈观|[<img width="400px" src="./img/Cs_LQ1101505_YunjinOpera_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101505_YunjinOpera_Boy.mkv)|
+|间章 第一幕 风起鹤归|神女劈观|[<img width="400px" src="./img/Cs_LQ1101505_YunjinOpera_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LQ1101505_YunjinOpera_Girl.mkv)|
+|飞彩镌流年|岁华流彩|[<img width="400px" src="./img/Cs_LiYue_EQ4003712_HdjFireworksShow_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LiYue_EQ4003712_HdjFireworksShow_Boy.mkv)|
+|飞彩镌流年|岁华流彩|[<img width="400px" src="./img/Cs_LiYue_EQ4003712_HdjFireworksShow_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.4/Cs_LiYue_EQ4003712_HdjFireworksShow_Girl.mkv)|
+
 ## 2.3 皑尘与雪影
 
 |章节|标题|图片|
 |---|---|---|
-|天牛之章 第一幕 赤金魂||[<img width="400px" src="./img/Cs_Inazuma_LQ1200905_IttoOniStroy01.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1200905_IttoOniStroy01.mkv)|
-|天牛之章 第一幕 赤金魂||[<img width="400px" src="./img/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.mkv)|
-|天牛之章 第一幕 赤金魂||[<img width="400px" src="./img/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.mkv)|
-|天牛之章 第一幕 赤金魂||[<img width="400px" src="./img/Cs_Inazuma_LQ1202618_IttoOniStroy02.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1202618_IttoOniStroy02.mkv)|
-|皑尘与雪影 皑尘与雪影||[<img width="400px" src="./img/Cs_MD_EQ4002802_WinterCampAlbedoConfront.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_MD_EQ4002802_WinterCampAlbedoConfront.mkv)|
-|皑尘与雪影 皑尘与雪影||[<img width="400px" src="./img/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Boy.mkv)|
-|皑尘与雪影 皑尘与雪影||[<img width="400px" src="./img/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Girl.mkv)|
+|天牛之章 第一幕 赤金魂||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1200905_IttoOniStroy01.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1200905_IttoOniStroy01.mkv)|
+|天牛之章 第一幕 赤金魂||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.mkv)|
+|天牛之章 第一幕 赤金魂||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.mkv)|
+|天牛之章 第一幕 赤金魂||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1202618_IttoOniStroy02.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_Inazuma_LQ1202618_IttoOniStroy02.mkv)|
+|皑尘与雪影 皑尘与雪影||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_MD_EQ4002802_WinterCampAlbedoConfront.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_MD_EQ4002802_WinterCampAlbedoConfront.mkv)|
+|皑尘与雪影 皑尘与雪影||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Boy.mkv)|
+|皑尘与雪影 皑尘与雪影||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.3/Cs_MD_EQ4002810_WinterCampAlbedoBackstab_Girl.mkv)|
 
 ## 2.2 雾海悬谜境
 
 |章节|标题|图片|
 |---|---|---|
-|谜境悬兵||[<img width="400px" src="./img/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.2/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Boy.mkv)|
-|谜境悬兵||[<img width="400px" src="./img/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.2/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Girl.mkv)|
+|谜境悬兵||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.2/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Boy.mkv)|
+|谜境悬兵||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.2/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Girl.mkv)|
 
 ## 2.1 韶光抚月，天下人间
 
 |章节|标题|图片|
 |---|---|---|
-|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="./img/Cs_200803_ShougunBossPart1_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200803_ShougunBossPart1_Boy.mkv)|
-|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="./img/Cs_200803_ShougunBossPart1_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200803_ShougunBossPart1_Girl.mkv)|
-|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="./img/Cs_200806_ShougunBossPart2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200806_ShougunBossPart2_Boy.mkv)|
-|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="./img/Cs_200806_ShougunBossPart2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200806_ShougunBossPart2_Girl.mkv)|
-|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="./img/Cs_200919_SHG_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200919_SHG_Boy.mkv)|
-|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="./img/Cs_200919_SHG_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200919_SHG_Girl.mkv)|
-|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="./img/Cs_Inazuma_AQ202004_ResistanceCharge_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_ResistanceCharge_Boy.mkv)|
-|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="./img/Cs_Inazuma_AQ202004_ResistanceCharge_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_ResistanceCharge_Girl.mkv)|
-|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="./img/Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.mkv)|
-|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="./img/Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.mkv)|
-|稻妻 第三幕 千手百眼，天下人间|许以臣民之梦|[<img width="400px" src="./img/Cs_Inazuma_AQ202005_InazumaMucha.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202005_InazumaMucha.mkv)|
-|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="./img/Cs_Inazuma_AQ202006_InazumaEnding.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202006_InazumaEnding.mkv)|
-|韶光抚月|人间至味|[<img width="400px" src="./img/Cs_LiYue_EQ4001515_Lunarite_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_LiYue_EQ4001515_Lunarite_Boy.mkv)|
-|韶光抚月|人间至味|[<img width="400px" src="./img/Cs_LiYue_EQ4001515_Lunarite_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_LiYue_EQ4001515_Lunarite_Girl.mkv)|
+|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200803_ShougunBossPart1_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200803_ShougunBossPart1_Boy.mkv)|
+|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200803_ShougunBossPart1_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200803_ShougunBossPart1_Girl.mkv)|
+|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200806_ShougunBossPart2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200806_ShougunBossPart2_Boy.mkv)|
+|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200806_ShougunBossPart2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200806_ShougunBossPart2_Girl.mkv)|
+|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200919_SHG_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200919_SHG_Boy.mkv)|
+|稻妻 第二幕 无念无想，泡影断灭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200919_SHG_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_200919_SHG_Girl.mkv)|
+|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_AQ202004_ResistanceCharge_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_ResistanceCharge_Boy.mkv)|
+|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_AQ202004_ResistanceCharge_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_ResistanceCharge_Girl.mkv)|
+|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.mkv)|
+|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.mkv)|
+|稻妻 第三幕 千手百眼，天下人间|许以臣民之梦|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_AQ202005_InazumaMucha.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202005_InazumaMucha.mkv)|
+|稻妻 第三幕 千手百眼，天下人间||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_AQ202006_InazumaEnding.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_Inazuma_AQ202006_InazumaEnding.mkv)|
+|韶光抚月|人间至味|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_EQ4001515_Lunarite_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_LiYue_EQ4001515_Lunarite_Boy.mkv)|
+|韶光抚月|人间至味|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_EQ4001515_Lunarite_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.1/Cs_LiYue_EQ4001515_Lunarite_Girl.mkv)|
 
 ## 2.0 不动鸣神，泡影断灭
 
 |章节|标题|图片|
 |---|---|---|
-|稻妻 第一幕 不动鸣神，恒常乐土||[<img width="400px" src="./img/Cs_201104_DaoQiDengdao_P2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_201104_DaoQiDengdao_P2_Boy.mkv)|
-|稻妻 第一幕 不动鸣神，恒常乐土||[<img width="400px" src="./img/Cs_201104_DaoQiDengdao_P2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_201104_DaoQiDengdao_P2_Girl.mkv)|
-|雪鹤之章 第一幕 鹤与白兔的诉说||[<img width="400px" src="./img/Cs_LQ12008_Ayaka_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_LQ12008_Ayaka_Boy.mkv)|
-|雪鹤之章 第一幕 鹤与白兔的诉说||[<img width="400px" src="./img/Cs_LQ12008_Ayaka_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_LQ12008_Ayaka_Girl.mkv)|
+|稻妻 第一幕 不动鸣神，恒常乐土||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_201104_DaoQiDengdao_P2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_201104_DaoQiDengdao_P2_Boy.mkv)|
+|稻妻 第一幕 不动鸣神，恒常乐土||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_201104_DaoQiDengdao_P2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_201104_DaoQiDengdao_P2_Girl.mkv)|
+|雪鹤之章 第一幕 鹤与白兔的诉说||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LQ12008_Ayaka_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_LQ12008_Ayaka_Boy.mkv)|
+|雪鹤之章 第一幕 鹤与白兔的诉说||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LQ12008_Ayaka_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_LQ12008_Ayaka_Girl.mkv)|
 
 ## 1.6 盛夏！海岛？大冒险！
 
 |章节|标题|图片|
 |---|---|---|
-|稻妻 序幕 振袖秋风问红叶|追逐霆光的孤旅|[<img width="400px" src="./img/Cs_200211_WanYeXianVideo.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.6/Cs_200211_WanYeXianVideo.mkv)|
-|盛夏！海岛？大冒险！||[<img width="400px" src="./img/Cs_4131904_HaiDaoChuXian_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.6/Cs_4131904_HaiDaoChuXian_Boy.mkv)|
-|盛夏！海岛？大冒险！||[<img width="400px" src="./img/Cs_4131904_HaiDaoChuXian_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.6/Cs_4131904_HaiDaoChuXian_Girl.mkv)|
+|稻妻 序幕 振袖秋风问红叶|追逐霆光的孤旅|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_200211_WanYeXianVideo.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.6/Cs_200211_WanYeXianVideo.mkv)|
+|盛夏！海岛？大冒险！||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_4131904_HaiDaoChuXian_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.6/Cs_4131904_HaiDaoChuXian_Boy.mkv)|
+|盛夏！海岛？大冒险！||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_4131904_HaiDaoChuXian_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.6/Cs_4131904_HaiDaoChuXian_Girl.mkv)|
 
 ## 1.5 玉扉绕尘歌
 
