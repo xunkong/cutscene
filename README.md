@@ -1,3 +1,10 @@
+## 2.2 雾海悬谜境
+
+|章节|标题|图片|
+|---|---|---|
+|谜境悬兵||[<img width="400px" src="./img/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.2/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Boy.mkv)|
+|谜境悬兵||[<img width="400px" src="./img/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.2/Cs_Inazuma_EQ4002207_ShikishogunRecalling_Girl.mkv)|
+
 ## 2.1 韶光抚月，天下人间
 
 |章节|标题|图片|
