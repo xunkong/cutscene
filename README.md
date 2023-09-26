@@ -1,3 +1,11 @@
+## 1.4 风花的邀约
+
+|章节|标题|图片|
+|---|---|---|
+|旅人 第一章 第四幕 我们终将重逢||[<img width="400px" src="./img/Cs_WQDY1800026_Memories.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.4/Cs_WQDY1800026_Memories.mkv)|
+|风花的邀约 风花的邀约|万花成风|[<img width="400px" src="./img/Cs_Activity_4141307_Fenghuajie_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.4/Cs_Activity_4141307_Fenghuajie_Boy.mkv)|
+|风花的邀约 风花的邀约|万花成风|[<img width="400px" src="./img/Cs_Activity_4141307_Fenghuajie_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.4/Cs_Activity_4141307_Fenghuajie_Girl.mkv)|
+
 ## 1.3 明霄升海平
 
 |章节|标题|图片|
