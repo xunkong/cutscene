@@ -1,3 +1,9 @@
+## 1.5 玉扉绕尘歌
+
+|章节|标题|图片|
+|---|---|---|
+|古闻之章 第二幕 匪石|创龙点睛|[<img width="400px" src="./img/Cs_LYAQ1112308_LongWangStroy.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.5/Cs_LYAQ1112308_LongWangStroy.mkv)|
+
 ## 1.4 风花的邀约
 
 |章节|标题|图片|
