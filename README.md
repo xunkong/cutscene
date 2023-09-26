@@ -1,3 +1,13 @@
+## 2.7 荒梦藏虞渊
+
+|章节|标题|图片|
+|---|---|---|
+|间章 第二幕 危途疑踪|生死一刹|[<img width="400px" src="./img/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mkv)|
+|间章 第二幕 危途疑踪|生死一刹|[<img width="400px" src="./img/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mkv)|
+|间章 第二幕 危途疑踪|惟余旧忆|[<img width="400px" src="./img/Cs_LiYue_LQ10310601_FusheStory.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310601_FusheStory.mkv)|
+|幽客之章 第一幕 棋生断处||[<img width="400px" src="./img/Cs_LiYue_LQ110261501_YelanStory_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ110261501_YelanStory_Boy.mkv)|
+|幽客之章 第一幕 棋生断处||[<img width="400px" src="./img/Cs_LiYue_LQ110261501_YelanStory_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ110261501_YelanStory_Girl.mkv)|
+
 ## 2.6 流风眷堇庭
 
 |章节|标题|图片|
