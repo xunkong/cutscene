@@ -1,34 +1,45 @@
+## 2.8 仲夏！幻夜？奇想曲！
+
+|章节|标题|图片|
+|---|---|---|
+|远海诗夏游纪||[<img width="400px" src="./img/Cs_MD_EQ400650301_IslandFlash_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.8/Cs_MD_EQ400650301_IslandFlash_Boy.mkv)|
+|远海诗夏游纪||[<img width="400px" src="./img/Cs_MD_EQ400650301_IslandFlash_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.8/Cs_MD_EQ400650301_IslandFlash_Girl.mkv)|
+|远海诗夏游纪|辉金盛夏·枫原万叶|[<img width="400px" src="./img/Cs_MD_EQ400671001_KazuhaMemory.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.8/Cs_MD_EQ400671001_KazuhaMemory.mkv)|
+|远海诗夏游纪|辉金盛夏·辛焱|[<img width="400px" src="./img/Cs_MD_EQ400701001_XinyanPlay.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.8/Cs_MD_EQ400701001_XinyanPlay.mkv)|
+|远海诗夏游纪|辉金盛夏·菲谢尔|[<img width="400px" src="./img/Cs_MD_EQ400731001_FischlFantasy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.8/Cs_MD_EQ400731001_FischlFantasy.mkv)|
+|远海诗夏游纪|辉金盛夏·莫娜|[<img width="400px" src="./img/Cs_MD_EQ400761001_MonaDivination.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.8/Cs_MD_EQ400761001_MonaDivination.mkv)|
+
 ## 2.7 荒梦藏虞渊
 
 |章节|标题|图片|
 |---|---|---|
-|间章 第二幕 危途疑踪|生死一刹|[<img width="400px" src="./img/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mkv)|
-|间章 第二幕 危途疑踪|生死一刹|[<img width="400px" src="./img/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mkv)|
-|间章 第二幕 危途疑踪|惟余旧忆|[<img width="400px" src="./img/Cs_LiYue_LQ10310601_FusheStory.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310601_FusheStory.mkv)|
-|幽客之章 第一幕 棋生断处||[<img width="400px" src="./img/Cs_LiYue_LQ110261501_YelanStory_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ110261501_YelanStory_Boy.mkv)|
-|幽客之章 第一幕 棋生断处||[<img width="400px" src="./img/Cs_LiYue_LQ110261501_YelanStory_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ110261501_YelanStory_Girl.mkv)|
+|间章 第二幕 危途疑踪|生死一刹|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mkv)|
+|间章 第二幕 危途疑踪|生死一刹|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mkv)|
+|间章 第二幕 危途疑踪|惟余旧忆|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_LQ10310601_FusheStory.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ10310601_FusheStory.mkv)|
+|幽客之章 第一幕 棋生断处||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_LQ110261501_YelanStory_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ110261501_YelanStory_Boy.mkv)|
+|幽客之章 第一幕 棋生断处||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_LQ110261501_YelanStory_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.7/Cs_LiYue_LQ110261501_YelanStory_Girl.mkv)|
 
 ## 2.6 流风眷堇庭
 
 |章节|标题|图片|
 |---|---|---|
-|旅人 第二章 第四幕 回响渊底的安魂曲||[<img width="400px" src="./img/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.mkv)|
-|旅人 第二章 第四幕 回响渊底的安魂曲||[<img width="400px" src="./img/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.mkv)|
-|堇庭华彩真说|歌仙逸话|[<img width="400px" src="./img/Cs_Inazuma_EQ400551201_IRODORI_Suikou.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400551201_IRODORI_Suikou.mkv)|
-|堇庭华彩真说|歌仙逸话|[<img width="400px" src="./img/Cs_Inazuma_EQ400560901_IRODORI_Aoinookina.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400560901_IRODORI_Aoinookina.mkv)|
-|堇庭华彩真说|歌仙逸话|[<img width="400px" src="./img/Cs_Inazuma_EQ400571101_IRODORI.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400571101_IRODORI.mkv)|
+|旅人 第二章 第四幕 回响渊底的安魂曲||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.mkv)|
+|旅人 第二章 第四幕 回响渊底的安魂曲||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.mkv)|
+|堇庭华彩真说|歌仙逸话|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_EQ400551201_IRODORI_Suikou.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400551201_IRODORI_Suikou.mkv)|
+|堇庭华彩真说|歌仙逸话|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_EQ400560901_IRODORI_Aoinookina.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400560901_IRODORI_Aoinookina.mkv)|
+|堇庭华彩真说|歌仙逸话|[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_EQ400571101_IRODORI.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.6/Cs_Inazuma_EQ400571101_IRODORI.mkv)|
 
 ## 2.5 薄樱初绽时
 
 |章节|标题|图片|
 |---|---|---|
-|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.mkv)|
-|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.mkv)|
-|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.mkv)|
-|天下人之章 第二幕 须臾百梦||[<img width="400px" src="./img/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.mkv)|
-|仙狐之章 第一幕 鸣神御袚祈愿祭||[<img width="400px" src="./img/Cs_Inazuma_LQ1203105_YaeMiko_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1203105_YaeMiko_Boy.mkv)|
-|仙狐之章 第一幕 鸣神御袚祈愿祭||[<img width="400px" src="./img/Cs_Inazuma_LQ1203105_YaeMiko_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1203105_YaeMiko_Girl.mkv)|
-|三界路飨祭||[<img width="400px" src="./img/Cs_Inazuma_EQ4005111_MichiaeMatsuri.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_EQ4005111_MichiaeMatsuri.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.mkv)|
+|天下人之章 第二幕 须臾百梦||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.mkv)|
+|仙狐之章 第一幕 鸣神御袚祈愿祭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1203105_YaeMiko_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1203105_YaeMiko_Boy.mkv)|
+|仙狐之章 第一幕 鸣神御袚祈愿祭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_LQ1203105_YaeMiko_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_LQ1203105_YaeMiko_Girl.mkv)|
+|三界路飨祭||[<img width="400px" src="https://github.com/xunkong/cutscene/blob/main/img/Cs_Inazuma_EQ4005111_MichiaeMatsuri.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.5/Cs_Inazuma_EQ4005111_MichiaeMatsuri.mkv)|
 
 ## 2.4 飞彩镌流年
 
