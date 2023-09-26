@@ -1,3 +1,20 @@
+## 3.1 赤土之王与三朝圣者
+
+|章节|标题|图片|
+|---|---|---|
+|须弥 第三幕 迷梦与空幻与欺骗||[<img width="400px" src="./img/Cs_Sumeru_AQ30161501_DT_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ30161501_DT_Boy.mkv)|
+|须弥 第三幕 迷梦与空幻与欺骗||[<img width="400px" src="./img/Cs_Sumeru_AQ30161501_DT_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ30161501_DT_Girl.mkv)|
+|须弥 第三幕 迷梦与空幻与欺骗|『神』意|[<img width="400px" src="./img/Cs_Sumeru_AQ30170601_SOfS.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ30170601_SOfS.mkv)|
+|须弥 第三幕 迷梦与空幻与欺骗|禅那园变故|[<img width="400px" src="./img/Cs_Sumeru_AQ30170602_GF_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ30170602_GF_Boy.mkv)|
+|须弥 第三幕 迷梦与空幻与欺骗|禅那园变故|[<img width="400px" src="./img/Cs_Sumeru_AQ30170602_GF_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ30170602_GF_Girl.mkv)|
+|须弥 第四幕 赤土之王与三朝圣者||[<img width="400px" src="./img/Cs_Sumeru_AQ302103_FOTD_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ302103_FOTD_Boy.mkv)|
+|须弥 第四幕 赤土之王与三朝圣者||[<img width="400px" src="./img/Cs_Sumeru_AQ302103_FOTD_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ302103_FOTD_Girl.mkv)|
+|须弥 第四幕 赤土之王与三朝圣者|沙中遗事|[<img width="400px" src="./img/Cs_Sumeru_AQ302105_GOTP.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_AQ302105_GOTP.mkv)|
+|金狼之章 第一幕 沉沙归寂||[<img width="400px" src="./img/Cs_Sumeru_LQ130111201_EnODeGa_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_LQ130111201_EnODeGa_Boy.mkv)|
+|金狼之章 第一幕 沉沙归寂||[<img width="400px" src="./img/Cs_Sumeru_LQ130111201_EnODeGa_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_Sumeru_LQ130111201_EnODeGa_Girl.mkv)|
+|杯中遥吟之歌|待风归，启佳酿|[<img width="400px" src="./img/Cs_MD_EQ400800601_VinFes_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_MD_EQ400800601_VinFes_Boy.mkv)|
+|杯中遥吟之歌|待风归，启佳酿|[<img width="400px" src="./img/Cs_MD_EQ400800601_VinFes_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.1/Cs_MD_EQ400800601_VinFes_Girl.mkv)|
+
 ## 3.0 千朵玫瑰带来的黎明
 
 |章节|标题|图片|
