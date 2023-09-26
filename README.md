@@ -1,3 +1,13 @@
+## 3.4 磬弦奏华夜
+
+|章节|标题|图片|
+|---|---|---|
+|磬弦奏华夜|余音萦心|[<img width="400px" src="./img/Cs_Liyue_EQ4009306_HDJ1.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.4/Cs_Liyue_EQ4009306_HDJ1.mkv)|
+|磬弦奏华夜|虹歌灯宴|[<img width="400px" src="./img/Cs_Liyue_EQ4009311_HDJ2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.4/Cs_Liyue_EQ4009311_HDJ2_Boy.mkv)|
+|磬弦奏华夜|虹歌灯宴|[<img width="400px" src="./img/Cs_Liyue_EQ4009311_HDJ2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.4/Cs_Liyue_EQ4009311_HDJ2_Girl.mkv)|
+|天隼之章 第一幕 乌合的虚像||[<img width="400px" src="./img/Cs_Sumeru_LQ130221401_NF_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.4/Cs_Sumeru_LQ130221401_NF_Boy.mkv)|
+|天隼之章 第一幕 乌合的虚像||[<img width="400px" src="./img/Cs_Sumeru_LQ130221401_NF_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.4/Cs_Sumeru_LQ130221401_NF_Girl.mkv)|
+
 ## 3.3 六入尽明，诸相皆无
 
 |章节|标题|图片|
