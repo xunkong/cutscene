@@ -1,3 +1,11 @@
+## 3.7 决斗！召唤之巅！
+
+|章节|标题|图片|
+|---|---|---|
+|琉金之章 第二幕 拾星之旅|流星知愿|[<img width="400px" src="./img/Cs_Sumeru_LQ1303208_KLX_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.7/Cs_Sumeru_LQ1303208_KLX_Boy.mkv)|
+|琉金之章 第二幕 拾星之旅|流星知愿|[<img width="400px" src="./img/Cs_Sumeru_LQ1303208_KLX_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.7/Cs_Sumeru_LQ1303208_KLX_Girl.mkv)|
+|决斗！召唤之巅！|牌中秘宝|[<img width="400px" src="./img/Cs_Sumeru_EQ401101101_KP.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.7/Cs_Sumeru_EQ401101101_KP.mkv)|
+
 ## 3.6 盛典与慧业
 
 |章节|标题|图片|
