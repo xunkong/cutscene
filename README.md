@@ -1,3 +1,12 @@
+## 2.0 不动鸣神，泡影断灭
+
+|章节|标题|图片|
+|---|---|---|
+|稻妻 第一幕 不动鸣神，恒常乐土||[<img width="400px" src="./img/Cs_201104_DaoQiDengdao_P2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_201104_DaoQiDengdao_P2_Boy.mkv)|
+|稻妻 第一幕 不动鸣神，恒常乐土||[<img width="400px" src="./img/Cs_201104_DaoQiDengdao_P2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_201104_DaoQiDengdao_P2_Girl.mkv)|
+|雪鹤之章 第一幕 鹤与白兔的诉说||[<img width="400px" src="./img/Cs_LQ12008_Ayaka_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_LQ12008_Ayaka_Boy.mkv)|
+|雪鹤之章 第一幕 鹤与白兔的诉说||[<img width="400px" src="./img/Cs_LQ12008_Ayaka_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/2.0/Cs_LQ12008_Ayaka_Girl.mkv)|
+
 ## 1.6 盛夏！海岛？大冒险！
 
 |章节|标题|图片|
