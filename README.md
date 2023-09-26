@@ -1,3 +1,12 @@
+## 3.6 盛典与慧业
+
+|章节|标题|图片|
+|---|---|---|
+|智慧主之章 第二幕 归乡|归乡|[<img width="400px" src="./img/Cs_Sumeru_LQ1302712_DCI_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.6/Cs_Sumeru_LQ1302712_DCI_Boy.mkv)|
+|智慧主之章 第二幕 归乡|归乡|[<img width="400px" src="./img/Cs_Sumeru_LQ1302712_DCI_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.6/Cs_Sumeru_LQ1302712_DCI_Girl.mkv)|
+|悬壶之章 第一幕 「医心」|长生|[<img width="400px" src="./img/Cs_Liyue_LQ1102907_LC.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.6/Cs_Liyue_LQ1102907_LC.mkv)|
+|盛典与慧业|荣冕|[<img width="400px" src="./img/Cs_Sumeru_EQ4010309_KWG.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.6/Cs_Sumeru_EQ4010309_KWG.mkv)|
+
 ## 3.5 风花的呼吸
 
 |章节|标题|图片|
