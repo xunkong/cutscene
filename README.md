@@ -1,3 +1,9 @@
+## 1.2 白垩与黑龙
+
+|章节|标题|图片|
+|---|---|---|
+|仙麟之章 第一幕 云之海，人之海||[<img width="400px" src="./img/Cs_GY11030_GYPersonal.jpg" />](https://github.com/xunkong/cutscene/releases/download/1.2/Cs_GY11030_GYPersonal.mkv)|
+
 ## 1.1 迫近的客星
 
 |章节|标题|图片|
