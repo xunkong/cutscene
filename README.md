@@ -1,3 +1,10 @@
+## 3.8 清夏！乐园？大秘境！
+
+|章节|标题|图片|
+|---|---|---|
+|清夏！乐园？大秘境！」||[<img width="400px" src="./img/Cs_Sumeru_EQ4011905_LTWT_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.8/Cs_Sumeru_EQ4011905_LTWT_Boy.mkv)|
+|清夏！乐园？大秘境！」||[<img width="400px" src="./img/Cs_Sumeru_EQ4011905_LTWT_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.8/Cs_Sumeru_EQ4011905_LTWT_Girl.mkv)|
+
 ## 3.7 决斗！召唤之巅！
 
 |章节|标题|图片|
