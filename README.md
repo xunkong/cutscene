@@ -32,6 +32,8 @@
 
 |章节|标题|图片|
 |---|---|---|
+|旅人 第三章 第六幕 卡利贝尔||[<img width="320px" src="./img/Cs_Sumeru_AQ801211_LM_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.5/Cs_Sumeru_AQ801211_LM_Boy.mkv)|
+|旅人 第三章 第六幕 卡利贝尔||[<img width="320px" src="./img/Cs_Sumeru_AQ801211_LM_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.5/Cs_Sumeru_AQ801211_LM_Girl.mkv)|
 |风花的呼吸|魔女的茶会|[<img width="320px" src="./img/Cs_Mengde_EQ400990601_FFW.jpg" />](https://github.com/xunkong/cutscene/releases/download/3.5/Cs_Mengde_EQ400990601_FFW.mkv)|
 
 ## 3.4 磬弦奏华夜
