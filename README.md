@@ -4,6 +4,21 @@
 
 > 点击图片跳转到下载页面
 
+## 4.0 仿若无因飘落的轻雨
+
+|章节|标题|图片|
+|---|---|---|
+|枫丹 第一幕 白露与黑潮的序诗||[<img width="320px" src="./img/Cs_Fontaine_AQ40051001_MGS1_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ40051001_MGS1_Boy.mkv)|
+|枫丹 第一幕 白露与黑潮的序诗||[<img width="320px" src="./img/Cs_Fontaine_AQ40051001_MGS1_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ40051001_MGS1_Girl.mkv)|
+|枫丹 第一幕 白露与黑潮的序诗||[<img width="320px" src="./img/Cs_Fontaine_AQ40051002_MGS2_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ40051002_MGS2_Boy.mkv)|
+|枫丹 第一幕 白露与黑潮的序诗||[<img width="320px" src="./img/Cs_Fontaine_AQ40051002_MGS2_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ40051002_MGS2_Girl.mkv)|
+|枫丹 第二幕 仿若无因飘落的轻雨|暴风骤雨之际|[<img width="320px" src="./img/Cs_Fontaine_AQ400004_CB_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ400004_CB_Boy.mkv)|
+|枫丹 第二幕 仿若无因飘落的轻雨|暴风骤雨之际|[<img width="320px" src="./img/Cs_Fontaine_AQ400004_CB_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ400004_CB_Girl.mkv)|
+|枫丹 第二幕 仿若无因飘落的轻雨||[<img width="320px" src="./img/Cs_Fontaine_AQ400303_NXT_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ400303_NXT_Boy.mkv)|
+|枫丹 第二幕 仿若无因飘落的轻雨||[<img width="320px" src="./img/Cs_Fontaine_AQ400303_NXT_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_AQ400303_NXT_Girl.mkv)|
+|黑斑猫之章 第一幕 被遗忘的怪盗|荣耀归于传承|[<img width="320px" src="./img/Cs_Fontaine_LQ140020501_GKTS.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.0/Cs_Fontaine_LQ140020501_GKTS.mkv)|
+
+
 ## 3.8 清夏！乐园？大秘境！
 
 |章节|标题|图片|
