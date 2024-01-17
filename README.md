@@ -7,6 +7,16 @@
 ---
 
 
+## 4.3 蔷薇与铳枪
+
+|章节|标题|图片|
+|---|---|---|
+|野蔷薇之章 第一幕 共渡潮落||[<img width="320px" src="./img/Cs_Fontaine_LQ140170701_NHL_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.3/Cs_Fontaine_LQ140170701_NHL_Boy.mkv)|
+|野蔷薇之章 第一幕 共渡潮落||[<img width="320px" src="./img/Cs_Fontaine_LQ140170701_NHL_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.3/Cs_Fontaine_LQ140170701_NHL_Girl.mkv)|
+|蔷薇与铳枪|两个铳枪手|[<img width="320px" src="./img/Cs_Fontaine_EQ401351001_FFTM_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.3/Cs_Fontaine_EQ401351001_FFTM_Boy.mkv)|
+|蔷薇与铳枪|两个铳枪手|[<img width="320px" src="./img/Cs_Fontaine_EQ401351001_FFTM_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.3/Cs_Fontaine_EQ401351001_FFTM_Girl.mkv)|
+
+
 ## 4.2 罪人舞步旋
 
 |章节|标题|图片|
