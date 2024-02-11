@@ -7,6 +7,16 @@
 ---
 
 
+## 4.4 彩鹞栉春风
+
+|章节|标题|图片|
+|---|---|---|
+|闲鹤之章 第一幕 千里月明||[<img width="320px" src="./img/Cs_Liyue_LQ110350701_AA_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.4/Cs_Liyue_LQ110350701_AA_Boy.mkv)|
+|闲鹤之章 第一幕 千里月明||[<img width="320px" src="./img/Cs_Liyue_LQ110350701_AA_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.4/Cs_Liyue_LQ110350701_AA_Girl.mkv)|
+|彩鹞栉春风|飞鹞问风|[<img width="320px" src="./img/Cs_Liyue_EQ401411301_GMWS_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.4/Cs_Liyue_EQ401411301_GMWS_Boy.mkv)|
+|彩鹞栉春风|飞鹞问风|[<img width="320px" src="./img/Cs_Liyue_EQ401411301_GMWS_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.4/Cs_Liyue_EQ401411301_GMWS_Girl.mkv)|
+
+
 ## 4.3 蔷薇与铳枪
 
 |章节|标题|图片|
