@@ -7,6 +7,14 @@
 ---
 
 
+## 4.5 铓锋锦间裁
+
+|章节|标题|图片|
+|---|---|---|
+|丝切铗之章 第一幕 当他们谈起今夜||[<img width="320px" src="./img/Cs_Fontaine_LQ140220701_FFF_Boy.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.5/Cs_Fontaine_LQ140220701_FFF_Boy.mkv)|
+|丝切铗之章 第一幕 当他们谈起今夜||[<img width="320px" src="./img/Cs_Fontaine_LQ140220701_FFF_Girl.jpg" />](https://github.com/xunkong/cutscene/releases/download/4.5/Cs_Fontaine_LQ140220701_FFF_Girl.mkv)|
+
+
 ## 4.4 彩鹞栉春风
 
 |章节|标题|图片|
